@@ -1,0 +1,1 @@
+wall|-19,904,-109,-270,616,-247 #wall near barney table at the beginning, old one
